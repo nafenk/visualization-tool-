@@ -1,5 +1,6 @@
 Required Libraries: 
 install Faker
+<br><br>
 In case you are runnig on an OS X version, you have to run this command in order to install Faker:
 pip install --user pandas
 
