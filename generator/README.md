@@ -1,4 +1,7 @@
 **publisher.py**
+Required Libraries: 
+install Faker
+
 
 Generates random two points in the area of Gothenburg and a time (in format hours:minutes) and after connecting to the MQTT Broker (Mosquitto) publishes this data. 
 <br><br>
