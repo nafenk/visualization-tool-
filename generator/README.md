@@ -1,10 +1,10 @@
-**publisher.py**
-<br><br>
 Required Libraries: 
 install Faker
+In case you are runnig on an OS X version, you have to run this command in order to install Faker:
+pip install --user pandas
 
-
-Generates random two points in the area of Gothenburg and a time (in format hours:minutes) and after connecting to the MQTT Broker (Mosquitto) publishes this data. 
+**publisher.py**
+This Generates random two points in the area of Gothenburg and a time (in format hours:minutes) and after connecting to the MQTT Broker (Mosquitto) publishes this data. 
 <br><br>
 
 **GUI.py**
