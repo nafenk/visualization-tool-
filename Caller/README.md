@@ -41,6 +41,7 @@ Required Libraries:
 * import json
 * import isodate
 * import pybreaker
+you might want to checkout pip install, in order to install these libraries
 
 **ORGANIZER**
 
